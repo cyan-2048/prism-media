@@ -39,7 +39,8 @@
 		}
 	},
 	"peerDependencies": {
-		"opusscript": "^0.0.8"
+		"opusscript": "^0.0.8",
+		"stream-browserify": "cyan-2048/stream-browserify"
 	},
 	"peerDependenciesMeta": {
 		"opusscript": {
@@ -51,7 +52,6 @@
 		"typings/"
 	],
 	"dependencies": {
-		"events": "^3.3.0",
-		"stream-browserify": "cyan-2048/stream-browserify"
+		"events": "^3.3.0"
 	}
 }
