@@ -21,7 +21,7 @@ export class VolumeTransformer extends Transform {
 
 export { opus, vorbis };
 
-namespace prism {
+declare namespace prism {
 	export { opus, vorbis };
 	export { VolumeTransformer, VolumeOptions };
 }
