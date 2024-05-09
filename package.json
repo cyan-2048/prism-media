@@ -40,7 +40,7 @@
 	},
 	"peerDependencies": {
 		"opusscript": "^0.0.8",
-		"stream-browserify": "cyan-2048/stream-browserify"
+		"stream-browserify": "git://github.com/cyan-2048/stream-browserify.git"
 	},
 	"peerDependenciesMeta": {
 		"opusscript": {
